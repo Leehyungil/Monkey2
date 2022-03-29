@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfe74e252259e4f4bd03a1a7e18b598590cc69787",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xcefacc4d600b745ebb0630085e32dc16844ccf0245650032106c8f19cad061e2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MonkeyNFT1",
+  "SYMBOL": "Monkeyman",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/monkeynft1",
+  "SHOW_BACKGROUND": true
+}
